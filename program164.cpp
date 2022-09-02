@@ -1,0 +1,11 @@
+#include<iostream>
+using namespace std;
+
+int main()
+{
+    char Arr[] = "SHREE GANESHAYA NAMAH";
+    cout<<Arr;
+    printf("%s\n",Arr);
+    
+    return 0;
+}
